@@ -15,6 +15,6 @@ guardians_of_the_galaxy = media.Movie(
     "tt2015381")
 
 # list to store movies
-movies = [the_hitmans_bodyguard,american_made,guardians_of_the_galaxy]
-
+movies = [the_hitmans_bodyguard, american_made, guardians_of_the_galaxy]
+# build webpage using fresh_tomatoes.py
 fresh_tomatoes.open_movies_page(movies)
